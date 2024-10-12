@@ -4,11 +4,11 @@ This project demonstrates an end-to-end data pipeline implementation using vario
 
 
 ## Team Members
-Ahmed Abd El-Mohsen Abd El-Raheem Hussein
-Anas Osama Ali Attya Dorgham
-Marawan Attya Mamdouh 
-Mohammad Shaaban Mustafa abdulhameed
-Youssef Mahmoud Elsayed Abd Elkader
+- Ahmed Abd El-Mohsen Abd El-Raheem Hussein
+- Anas Osama Ali Attya Dorgham
+- Marawan Attya Mamdouh 
+- Mohammad Shaaban Mustafa abdulhameed
+- Youssef Mahmoud Elsayed Abd Elkader
 
 
 ## Project Structure
