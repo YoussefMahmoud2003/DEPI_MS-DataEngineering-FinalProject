@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/967acb51-5a2b-4497-8a65-927d9e053247)
 # DEPI_MS-DataEngineering-FinalProject
-
 This project demonstrates an end-to-end data pipeline implementation using various Azure services. The pipeline involves data ingestion, transformation, and loading to create analytical reports.
 
 
