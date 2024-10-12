@@ -1,6 +1,14 @@
 # DEPI_MS-DataEngineering-FinalProject
-
 This project demonstrates an end-to-end data pipeline implementation using various Azure services. The pipeline involves data ingestion, transformation, and loading to create analytical reports.
+
+
+## Team Members
+- Ahmed Abd El-Mohsen Abd El-Raheem Hussein
+- Anas Osama Ali Attya Dorgham
+- Marawan Attya Mamdouh 
+- Mohammad Shaaban Mustafa abdulhameed
+- Youssef Mahmoud Elsayed Abd Elkader
+
 
 ## Project Structure
 
@@ -28,6 +36,7 @@ This project demonstrates an end-to-end data pipeline implementation using vario
 
 ### Part 6: End-to-End Testing
 - Testing the entire pipeline by ingesting new data, performing transformations, and verifying reports.
+- This videos shows the testing operation: https://drive.google.com/file/d/1--s9QDi9MFD0ovOjjn_5_-xZrtjHgina/view?usp=drive_link
 
 ## Key Tools and Technologies
 - *Azure Data Factory*: For orchestrating data ingestion.
